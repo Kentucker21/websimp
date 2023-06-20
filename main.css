@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+    height: 100%;
+}
+
+.Top-banner{
+    background-color:#024985 ;
+    color: #fff;
+    margin-top: 0;
+ padding: 0.1em;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.cont{
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://usf.gov.jm/wp-content/uploads/2019/09/IMG_6785-1600x1067.jpg');
+}
